@@ -18,7 +18,7 @@ Pod::Spec.new do |s|
   s.author           = { 'Tez' => 'tez.park@sendbird.com' }
   s.source           = { :git => 'https://github.com/tezpark/PodRenameTest.git', :tag => s.version.to_s }
 
-  s.ios.deployment_target = '9.0'
+  s.ios.deployment_target = '15.0'
 
   s.source_files = 'Classes/*.swift'
 end
