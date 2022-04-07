@@ -1,5 +1,5 @@
 #
-# Be sure to run `pod lib lint PodRenameTest.podspec' to ensure this is a
+# Be sure to run `pod lib lint PodRenametest.podspec' to ensure this is a
 # valid spec before submitting.
 #
 # Any lines starting with a # are optional, but their use is encouraged
@@ -7,11 +7,10 @@
 #
 
 Pod::Spec.new do |s|
-  s.name             = 'PodRenameTest'
-  s.version          = '0.1.0'
-  s.summary          = 'A short description of PodRenameTest.'
-
-  s.description      = "Hi"
+  s.name             = 'PodRenametest'
+  s.version          = '0.1.1'
+  s.summary          = 'PodRenametest.'
+  s.description      = "Hi To learn more about a Podspec see https://guides.cocoapods.org/syntax/podspec.html To learn more about a Podspec see https://guides.cocoapods.org/syntax/podspec.html"
 
   s.homepage         = 'https://github.com/tezpark/PodRenameTest'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
